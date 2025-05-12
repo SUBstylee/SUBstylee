@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm Jeremy! 🌏</h1>
 ## <h2 align="center">I am an American <img style='height:18px' alt='usa flag' src='https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg'/> in Taiwan <img style='height:18px' alt='roc flag' src='https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/tw.svg'/>
   
-## <h2 align='center'>Check out my <a href='https://www.jjthr.com' target='_blank'>portfolio</a>.
+## <h2 align='center'>Check out my <a href='https://www.jjthr.com/portfolio' target='_blank'>portfolio</a>.
 
 [comment]: <> (<strong>🤝 Connect With Me:</strong><br><br>)
 
